@@ -100,11 +100,11 @@ fun_fact: I build proxies, sniffers, and exploit frameworks for fun 🕵️‍�
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Walterebelle44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walterebelle44&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walterebelle44&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Walterebelle44&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Walterebelle44&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/>
 
@@ -118,20 +118,14 @@ fun_fact: I build proxies, sniffers, and exploit frameworks for fun 🕵️‍�
 
 <div align="center">
 
-<a href="#">
+<a href="https://github.com/Walterebelle44/biotrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Walterebelle44&repo=biotrack&theme=tokyonight&hide_border=true" width="45%"/>
 </a>
-<a href="#">
+<a href="https://github.com/Walterebelle44/gestion-stagiaires">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Walterebelle44&repo=gestion-stagiaires&theme=tokyonight&hide_border=true" width="45%"/>
 </a>
 
 </div>
-
-> 🩺 **BioTrack** — Real-time IoT platform for hospital biomedical equipment monitoring (Laravel 11 · Nuxt 3 · MQTT · WebSockets)
-> 🎓 **Gestion des Stagiaires** — Full-stack internship management platform for Laquintinie Hospital's IT department (Laravel · Nuxt.js)
-> 🎫 **GCS** — Customer service request management platform for Glotelho (Nuxt 4 · Laravel · Magento API)
-
-<br/>
 
 ## 🌐 Connect With Me
 
