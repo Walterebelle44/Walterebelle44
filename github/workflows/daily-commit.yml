@@ -1,12 +1,12 @@
-name: Daily Auto Commit
+name: Daily README Update
 
 on:
   schedule:
     - cron: '0 0 * * *'   # tous les jours à minuit UTC
-  workflow_dispatch:        # permet de le lancer manuellement aussi
+  workflow_dispatch:
 
 jobs:
-  auto-commit:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,15 +14,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Update timestamp
+      - name: Update "Last updated" timestamp in README
         run: |
-          echo "<!-- Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC') -->" > .last-update
-          cat .last-update
+          NOW=$(date -u '+%d %B %Y, %H:%M UTC')
+          sed -i "s|<!--START_SECTION:last-updated-->.*<!--END_SECTION:last-updated-->|<!--START_SECTION:last-updated-->\n🕒 **Last updated:** ${NOW}\n<!--END_SECTION:last-updated-->|" README.md
 
-      - name: Commit and push
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .last-update
-          git diff --staged --quiet || git commit -m "chore: daily auto-update"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update last-updated timestamp"
           git push
