@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Walter%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Laravel+%2B+Nuxt;DevOps+%26+Cloud+Infrastructure+Enthusiast;Building+IoT+%26+Real-Time+Web+Applications;Passionate+about+Cybersecurity+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer;DevOps+%26+Cloud+Infrastructure+Engineer;Junior+Cybersecurity+Engineer;Passionate+about+Cybersecurity+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,11 +17,11 @@
 ## 👨🏽‍💻 About Me
 
 ```yaml
-name: Walter
-role: Software Engineer & DevOps Enthusiast
+name: Ebelle Walter
+role: Software & DevOps Engineer
 location: Douala, Cameroon 🇨🇲
 education: DUT Génie Informatique @ IUT de Douala
-focus: Full-Stack Development · IoT · Real-Time Systems · Cybersecurity
+focus: Full-Stack Development · DevOps · Real-Time Systems · Cybersecurity
 languages_spoken: [French, English]
 currently_exploring: Offensive Security · Cloud-Native DevOps · Kubernetes
 fun_fact: I build proxies, sniffers, and exploit frameworks for fun 🕵️‍♂️
