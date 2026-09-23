@@ -118,11 +118,11 @@ fun_fact: I build proxies, sniffers, and exploit frameworks for fun 🕵️‍�
 
 <div align="center">
 
-<a href="https://github.com/Walterebelle44/biotrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Walterebelle44&repo=biotrack&theme=tokyonight&hide_border=true" width="45%"/>
+<a href="https://github.com/Walterebelle44/Biotrack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Walterebelle44&repo=Biotrack&theme=tokyonight&hide_border=true" width="45%"/>
 </a>
-<a href="https://github.com/Walterebelle44/gestion-stagiaires">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Walterebelle44&repo=gestion-stagiaires&theme=tokyonight&hide_border=true" width="45%"/>
+<a href="https://github.com/Walterebelle44/GameStore)">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Walterebelle44&repo=GameStore&theme=tokyonight&hide_border=true" width="45%"/>
 </a>
 
 </div>
