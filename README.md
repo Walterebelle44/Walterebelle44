@@ -1,204 +1,155 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Walterebelle44/Walterebelle44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Walter%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Laravel+%2B+Nuxt;DevOps+%26+Cloud+Infrastructure+Enthusiast;Building+IoT+%26+Real-Time+Web+Applications;Passionate+about+Cybersecurity+%F0%9F%94%90" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
+<br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# 👋 Hi, I'm Walter Ebelle
+<br/>
 
-### 💻 Full-Stack Developer | DevOps Enthusiast | Cybersecurity Learner
+## 👨🏽‍💻 About Me
 
-I'm a passionate developer from **Cameroon 🇨🇲**, interested in building modern, scalable and secure applications.
+```yaml
+name: Walter
+role: Software Engineer & DevOps Enthusiast
+location: Douala, Cameroon 🇨🇲
+education: DUT Génie Informatique @ IUT de Douala
+focus: Full-Stack Development · IoT · Real-Time Systems · Cybersecurity
+languages_spoken: [French, English]
+currently_exploring: Offensive Security · Cloud-Native DevOps · Kubernetes
+fun_fact: I build proxies, sniffers, and exploit frameworks for fun 🕵️‍♂️
+```
 
-I enjoy working on both **frontend and backend development**, while progressively specializing in **DevOps, cloud technologies and cybersecurity**.
+- 🔭 Currently building **full-stack IoT & web platforms** (Laravel + Nuxt, MQTT, WebSockets)
+- 🛡️ Practicing **offensive security**: network sniffing, MITM attacks, web app pentesting, malware analysis
+- ⚙️ Diving deeper into **DevOps & Cloud**: Docker, Kubernetes, CI/CD pipelines, AWS
+- 🌱 Always learning — new stacks, new protocols, new ways to break (and fix) things
+- 💬 Ask me about **Laravel, Nuxt, IoT architectures, or network security**
+- ⚡ Fun fact: I once built a network sniffer and a Wi-Fi handshake capture tool from scratch
 
----
+<br/>
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-* 🎓 Computer Science student / Software Developer
-* 💻 Full-Stack Developer
-* 🔧 Currently learning **DevOps & Cybersecurity**
-* 🐳 Working with **Docker & CI/CD**
-* 🌐 Interested in **Cloud Computing & Distributed Systems**
-* 🔐 Interested in **Application & Network Security**
-* 📚 Always learning and building new projects
+<br/>
 
----
+### 💻 Languages
 
-## 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,php,html,css,js,ts,python,c,cpp,tailwind&theme=dark" />
 </p>
 
-### 🌐 Frontend
+### 🧩 Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,spring,nuxtjs,nextjs,express,vuejs,django&theme=dark" />
 </p>
 
-### ⚙️ Backend
+### 🐳 DevOps · Cloud · Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,nginx,git,github,gitlab,kubernetes,aws,bash,vscode&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </p>
 
-### 🐳 DevOps & Tools
+### 🛠️ Tools & Others
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vagrant,wireshark,postman,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
----
+<br/>
 
-## 🔐 Cybersecurity
+## 🔐 Cybersecurity Toolkit
 
-I'm currently developing my skills in:
+<p align="left">
+<img src="https://img.shields.io/badge/Network%20Sniffing-black?style=for-the-badge&logo=wireshark&logoColor=blue" />
+<img src="https://img.shields.io/badge/MITM%20%26%20Evil%20Twin-black?style=for-the-badge&logo=hackaday&logoColor=red" />
+<img src="https://img.shields.io/badge/SQLi%20%2F%20XSS-black?style=for-the-badge&logo=owasp&logoColor=orange" />
+<img src="https://img.shields.io/badge/Malware%20Analysis-black?style=for-the-badge&logo=virustotal&logoColor=green" />
+<img src="https://img.shields.io/badge/Incident%20Response-black?style=for-the-badge&logo=cloudflare&logoColor=yellow" />
+</p>
 
-* 🌐 Computer Networks & TCP/IP
-* 🔥 Firewalls & Network Security
-* 🕵️ Ethical Hacking & Penetration Testing
-* 🔎 Vulnerability Analysis
-* 🛡️ Web & API Security
-* 🔐 Authentication & Authorization
-* 📊 Logs, Monitoring & SIEM
-* 🐳 Container Security
-* ☁️ Cloud Security
-* 🔄 DevSecOps
+- Building custom **Python tools**: socket-based listeners, network scanners, brute-force/dictionary attack scripts
+- Implementing **proxies** to intercept, analyze, and modify HTTP(S) traffic
+- Using **wireless capture tools** to grab WPA/WPA2 handshakes and WEP IVs, and simulate MITM / Evil Twin / DoS attacks
+- Running **exploitation frameworks** to identify vulnerabilities based on OS, open ports, and service versions
+- Performing **malware analysis** (droppers, ransomware, trojans) and writing detection rules
+- Practicing **digital forensics** and incident response on compromised systems
 
----
-
-## 🚀 Featured Projects
-
-### 🏥 Meditrack
-
-A web application for **monitoring and managing biomedical equipment**.
-
-**Technologies:**
-`Nuxt` `Tailwind CSS` `Laravel` `MySQL` `WebSockets`
-
-Features include:
-
-* Equipment management
-* Equipment status monitoring
-* Real-time data
-* Maintenance management
-* Dashboard & statistics
-* User authentication
-
----
-
-### 🛒 E-Commerce Application
-
-A full-stack e-commerce application for managing products, customers, orders and administrators.
-
-**Technologies:**
-
-`Nuxt` `Laravel` `MySQL` `REST API`
-
----
-
-### 👥 Customer Service Management
-
-A web application designed to manage **customer support requests and interactions between customers and support agents**.
-
-**Technologies:**
-
-`Nuxt` `Laravel` `MySQL` `REST API`
-
----
-
-## 🧰 Currently Learning
-
-```text
-Docker
-   ↓
-CI/CD
-   ↓
-Jenkins
-   ↓
-Linux
-   ↓
-Cloud
-   ↓
-Cybersecurity
-   ↓
-DevSecOps
-```
-
-I'm particularly interested in understanding how to build applications that are:
-
-**⚡ Fast — 🔒 Secure — 📦 Scalable — 🔄 Automated**
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🧪 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=biotrack&theme=tokyonight&hide_border=true" width="45%"/>
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=gestion-stagiaires&theme=tokyonight&hide_border=true" width="45%"/>
+</a>
+
+</div>
+
+> 🩺 **BioTrack** — Real-time IoT platform for hospital biomedical equipment monitoring (Laravel 11 · Nuxt 3 · MQTT · WebSockets)
+> 🎓 **Gestion des Stagiaires** — Full-stack internship management platform for Laquintinie Hospital's IT department (Laravel · Nuxt.js)
+> 🎫 **GCS** — Customer service request management platform for Glotelho (Nuxt 4 · Laravel · Magento API)
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm always interested in discussing:
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2c5364" />
 
-* 💻 Software Development
-* 🚀 DevOps
-* 🔐 Cybersecurity
-* ☁️ Cloud Computing
-* 🤝 Open Source
-* 💡 New projects and ideas
+<br/><br/>
 
-### 📫 Contact
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-* 💼 LinkedIn: **[Your LinkedIn](https://linkedin.com/)**
-* 📧 Email: **[your-email@example.com](mailto:your-email@example.com)**
-* 🌐 Portfolio: **[Your Portfolio](https://example.com)**
-
----
-
-<p align="center">
-  <b>💻 Build. Learn. Secure. Deploy. Repeat. 🚀</b>
-</p>
+</div>
