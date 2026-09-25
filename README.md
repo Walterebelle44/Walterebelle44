@@ -20,7 +20,7 @@
 name: Ebelle Walter
 role: Software & DevOps Engineer
 location: Douala, Cameroon 🇨🇲
-education: DUT Génie Informatique @ IUT de Douala
+education: Licence Genie Logiciel @ IUT de Douala
 focus: Full-Stack Development · DevOps · Real-Time Systems · Cybersecurity
 languages_spoken: [French, English]
 currently_exploring: Offensive Security · Cloud-Native DevOps · Kubernetes
