@@ -148,6 +148,10 @@ fun_fact: I build proxies, sniffers, and exploit frameworks for fun 🕵️‍�
 
 </div>
 
-<!--START_SECTION:last-updated-->
-🕒 **Last updated:** 23 September 2026, 14:32 UTC
-<!--END_SECTION:last-updated-->
+<br/>
+
+## ⏱️ Last Activity
+
+<!--START_SECTION:update-->
+🕒 Dernière mise à jour automatique : **--**
+<!--END_SECTION:update-->
